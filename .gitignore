@@ -2,3 +2,4 @@ shandeb
 *.exe
 tmp*.*
 log/
+*.save
